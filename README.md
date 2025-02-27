@@ -31,7 +31,6 @@ Engaging Interactions: The use of animations and a polished UI design makes the 
 
 
 # Demo View
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,16 +39,16 @@ Engaging Interactions: The use of animations and a polished UI design makes the 
     <title>Image Grid</title>
     <style>
         .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            display: flex;
+            flex-wrap: wrap;
             gap: 10px;
             padding: 10px;
         }
         .grid-item img {
-            width: 200px;
-            height: 150px;
+            width: 250px;
+            height: 200px;
             object-fit: cover;
-            border-radius: 5px;
+            border: 1px solid #ccc;
         }
     </style>
 </head>
