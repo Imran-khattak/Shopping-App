@@ -31,7 +31,7 @@ Engaging Interactions: The use of animations and a polished UI design makes the 
 
 
 # Demo View
-<img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" width="400" height="600"/>
+<img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" width="400" height="650"/>
 ![home](https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e )
 
 
