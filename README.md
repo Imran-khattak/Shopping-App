@@ -31,39 +31,42 @@ Engaging Interactions: The use of animations and a polished UI design makes the 
 
 
 # Demo View
-<img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" width="100" height="100"/>
-![home](https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e )
 
-
-
-![home2](https://github.com/user-attachments/assets/c1681943-2f8e-4860-9b8e-92d9cdb4531f)
-
-
-![prod2](https://github.com/user-attachments/assets/2cc15555-11d9-4ff0-8ceb-824a878b3473)
-
-
-
-
-
-![allprod](https://github.com/user-attachments/assets/1b809e2f-b61f-454e-b5be-d1030c01b096)
-
-
-![prod1](https://github.com/user-attachments/assets/7a67c434-e042-4d8f-ab76-017a9a3f22b9)
-
-
-
-![prod](https://github.com/user-attachments/assets/23b55cc7-6b92-4d22-8ed9-b78dfd0ae952)
-
-
-![cart3](https://github.com/user-attachments/assets/b68c949e-e6c8-41f5-8e58-7a552e71e02b)
-
-
-
-![cart2](https://github.com/user-attachments/assets/2f752044-0f81-483a-826d-9ae8337fe58a)
-
-
-![cart1](https://github.com/user-attachments/assets/89ef22b4-0ef9-4156-b351-fe0522ee6386)
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Grid</title>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            padding: 10px;
+        }
+        .grid-item img {
+            width: 200px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" alt="home"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/c1681943-2f8e-4860-9b8e-92d9cdb4531f" alt="home2"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/2cc15555-11d9-4ff0-8ceb-824a878b3473" alt="prod2"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/1b809e2f-b61f-454e-b5be-d1030c01b096" alt="allprod"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/7a67c434-e042-4d8f-ab76-017a9a3f22b9" alt="prod1"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/23b55cc7-6b92-4d22-8ed9-b78dfd0ae952" alt="prod"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/b68c949e-e6c8-41f5-8e58-7a552e71e02b" alt="cart3"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/2f752044-0f81-483a-826d-9ae8337fe58a" alt="cart2"></div>
+        <div class="grid-item"><img src="https://github.com/user-attachments/assets/89ef22b4-0ef9-4156-b351-fe0522ee6386" alt="cart1"></div>
+    </div>
+</body>
+</html>
 
 
 
