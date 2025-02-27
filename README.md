@@ -31,38 +31,28 @@ Engaging Interactions: The use of animations and a polished UI design makes the 
 
 
 # Demo View
-<img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" width="400" height="700"/>
-![home](https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e )
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2623651f-37ec-491a-9f36-640d6fe2068e" width="400" height="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c1681943-2f8e-4860-9b8e-92d9cdb4531f" width="400" height="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2cc15555-11d9-4ff0-8ceb-824a878b3473" width="400" height="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1b809e2f-b61f-454e-b5be-d1030c01b096" width="400" height="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7a67c434-e042-4d8f-ab76-017a9a3f22b9" width="400" height="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/23b55cc7-6b92-4d22-8ed9-b78dfd0ae952" width="400" height="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b68c949e-e6c8-41f5-8e58-7a552e71e02b" width="400" height="700"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2f752044-0f81-483a-826d-9ae8337fe58a" width="400" height="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/89ef22b4-0ef9-4156-b351-fe0522ee6386" width="400" height="700"/></td>
+  </tr>
+</table>
 
-
-
-![home2](https://github.com/user-attachments/assets/c1681943-2f8e-4860-9b8e-92d9cdb4531f)
-
-
-![prod2](https://github.com/user-attachments/assets/2cc15555-11d9-4ff0-8ceb-824a878b3473)
-
-
-
-
-
-![allprod](https://github.com/user-attachments/assets/1b809e2f-b61f-454e-b5be-d1030c01b096)
-
-
-![prod1](https://github.com/user-attachments/assets/7a67c434-e042-4d8f-ab76-017a9a3f22b9)
-
-
-
-![prod](https://github.com/user-attachments/assets/23b55cc7-6b92-4d22-8ed9-b78dfd0ae952)
-
-
-![cart3](https://github.com/user-attachments/assets/b68c949e-e6c8-41f5-8e58-7a552e71e02b)
-
-
-
-![cart2](https://github.com/user-attachments/assets/2f752044-0f81-483a-826d-9ae8337fe58a)
-
-
-![cart1](https://github.com/user-attachments/assets/89ef22b4-0ef9-4156-b351-fe0522ee6386)
 
 
 
